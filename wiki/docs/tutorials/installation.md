@@ -19,7 +19,7 @@ comments: true
 
 ```bash
 
-git clone https://github.com/ZhenHuangLab/MemXTerminator.git
+git clone https://github.com/MemXTerminator/MemXTerminator.git
 
 ```
 
